@@ -1,0 +1,279 @@
+{
+  "pharmacies": [
+    {
+      "datasetid": "liste-des-pharmacies",
+      "id": "12700287806fdf4c190413e3b121d9d0070b4f2b",
+      "fields": {
+        "quartier": "Meudon-la-Forêt",
+        "web": "https://www.facebook.com/pharmaciedelecoquartier",
+        "point_geo": [
+          48.7828677,
+          2.2283531
+        ],
+        "horaires_d_ouverture": "Du lundi au samedi de 9h à 20h",
+        "latitude": "48.7828677",
+        "contact": "01 46 26 01 33",
+        "adresse": "12-14 place Simone-Veil",
+        "pharmacie": "Pharmacie de l'écoquartier",
+        "longitude": "2.2283531"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2283531,
+          48.7828677
+        ]
+      },
+      "record_timestamp": "2021-04-26T12:06:32.173+02:00"
+    },
+    {
+      "datasetid": "liste-des-pharmacies",
+      "id": "a1e1d22e7a9c6c15a1af304cccd30afb028e37ce",
+      "fields": {
+        "quartier": "Bellevue",
+        "point_geo": [
+          48.8205074,
+          2.2285967
+        ],
+        "horaires_d_ouverture": "Du lundi au samedi de 9h à 13h et de 14h à 20h",
+        "latitude": "48.8205074",
+        "contact": "01 45 34 10 98",
+        "image": "https://www.meudon.fr/wp-content/uploads/sites/5/2021/04/Pharmacie_Bellevue.jpg",
+        "adresse": "22 rue Marcel Allégot",
+        "pharmacie": "Pharmacie de Bellevue",
+        "longitude": "2.2285967"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2285967,
+          48.8205074
+        ]
+      },
+      "record_timestamp": "2021-04-26T12:06:32.173+02:00"
+    },
+    {
+      "datasetid": "liste-des-pharmacies",
+      "id": "061208b51e59d5c55aba39dc935192fc65d92a0b",
+      "fields": {
+        "quartier": "Meudon-la-Forêt",
+        "web": "http://www.pharmaciedetrivaux.fr/?fbclid=IwAR2B5o7zLpJhgT3YgrRa47jbk13jLwQpopTDFB3lALmtmjjKmrpqnYE1cZI",
+        "point_geo": [
+          48.7876236,
+          2.2346608
+        ],
+        "horaires_d_ouverture": "Du lundi au samedi de 9h à 20h",
+        "latitude": "48.7876236",
+        "contact": "01 46 31 60 76",
+        "image": "https://www.meudon.fr/wp-content/uploads/sites/5/2021/04/Pharmacie-de-Trivaux.jpg",
+        "adresse": "2 allée Marcel-Simon",
+        "pharmacie": "Pharmacie de Trivaux",
+        "longitude": "2.2346608"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2346608,
+          48.7876236
+        ]
+      },
+      "record_timestamp": "2021-04-26T12:06:32.173+02:00"
+    },
+    {
+      "datasetid": "liste-des-pharmacies",
+      "id": "27f39ae9eae0e370d510036611956933b42c080c",
+      "fields": {
+        "quartier": "Centre",
+        "point_geo": [
+          48.8080684,
+          2.2360969
+        ],
+        "horaires_d_ouverture": "Du lundi au samedi de 9h à 13h et de 14h à 20h",
+        "latitude": "48.8080684",
+        "contact": "01 45 34 10 53",
+        "image": "https://www.meudon.fr/wp-content/uploads/sites/5/2021/04/Pharmacie-des-4-saisons.jpg",
+        "adresse": "32 rue de la République",
+        "pharmacie": "Pharmacie des Quatre Saisons",
+        "longitude": "2.2360969"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2360969,
+          48.8080684
+        ]
+      },
+      "record_timestamp": "2021-04-26T12:06:32.173+02:00"
+    },
+    {
+      "datasetid": "liste-des-pharmacies",
+      "id": "1a29f5cae643f1fdb77ebd4513b448933b57f079",
+      "fields": {
+        "quartier": "Centre",
+        "web": "https://www.facebook.com/Pharmacie-de-lObservatoire-286691625398145/",
+        "point_geo": [
+          48.8071392,
+          2.2359836
+        ],
+        "horaires_d_ouverture": "Du lundi au samedi de 8h30 à 20h",
+        "latitude": "48.8071392",
+        "contact": "01 45 34 12 45",
+        "image": "https://www.meudon.fr/wp-content/uploads/sites/5/2021/04/Pharmacie-Observatoire.jpg",
+        "adresse": "38 rue de la République",
+        "pharmacie": "Pharmacie de l'Observatoire",
+        "longitude": "2.2359836"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2359836,
+          48.8071392
+        ]
+      },
+      "record_timestamp": "2021-04-26T12:06:32.173+02:00"
+    },
+    {
+      "datasetid": "liste-des-pharmacies",
+      "id": "c65df0cb569bee22aff369a4d12535db65ab51ae",
+      "fields": {
+        "quartier": "Val-Fleury",
+        "web": "https://www.facebook.com/pharmacieValFleury.Meudon",
+        "point_geo": [
+          48.8076074,
+          2.2416321
+        ],
+        "horaires_d_ouverture": "Du lundi au samedi de 8h à 12h30 et de 14h à 20h",
+        "latitude": "48.8076074",
+        "contact": "01 45 34 14 46",
+        "image": "https://www.meudon.fr/wp-content/uploads/sites/5/2021/04/Pharmacie-du-Val-Fleury.jpg",
+        "adresse": "24 rue Banès",
+        "pharmacie": "Pharmacie du Val-Fleury",
+        "longitude": "2.2416321"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2416321,
+          48.8076074
+        ]
+      },
+      "record_timestamp": "2021-04-26T12:06:32.173+02:00"
+    },
+    {
+      "datasetid": "liste-des-pharmacies",
+      "id": "b6acf82acb8e1f638acc28dd9a2e3e48ea9d0fe5",
+      "fields": {
+        "quartier": "Centre",
+        "web": "https://www.facebook.com/Pharmacie-Cottard-Meudon-106249734126025",
+        "point_geo": [
+          48.8149022,
+          2.2342975
+        ],
+        "horaires_d_ouverture": "Le lundi de 14h30 à 20h et du mardi au samedi de 9h à 12h30 et de 14h30 à 20h",
+        "latitude": "48.8149022",
+        "contact": "01 45 34 19 70",
+        "image": "https://www.meudon.fr/wp-content/uploads/sites/5/2021/04/Pharmacie_Cottard.jpg",
+        "adresse": "3 place Stalingrad",
+        "pharmacie": "Pharmacie Cottard",
+        "longitude": "2.2342975"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2342975,
+          48.8149022
+        ]
+      },
+      "record_timestamp": "2021-04-26T12:06:32.173+02:00"
+    },
+    {
+      "datasetid": "liste-des-pharmacies",
+      "id": "421f0ba4a379e7e7f5e48c94cd8e8cb56519a34f",
+      "fields": {
+        "quartier": "Meudon-la-Forêt",
+        "web": "https://www.facebook.com/PharmacieAmarMLF/",
+        "point_geo": [
+          48.7871643,
+          2.2281495
+        ],
+        "horaires_d_ouverture": "Le lundi de 10h à 13h et de 14h30 à 20h et du mardi au samedi de 9h à 13h et de 14h30 à 20h",
+        "latitude": "48.7871643",
+        "contact": "01 46 30 74 16",
+        "image": "https://www.meudon.fr/wp-content/uploads/sites/5/2021/04/Pharmacie_Amar.jpg",
+        "adresse": "15 avenue de Celle",
+        "pharmacie": "Pharmacie Amar",
+        "longitude": "2.2281495"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2281495,
+          48.7871643
+        ]
+      },
+      "record_timestamp": "2021-04-26T12:06:32.173+02:00"
+    },
+    {
+      "datasetid": "liste-des-pharmacies",
+      "id": "b3c1e8eb55855cc36934d0541cf5e36d3e85e54d",
+      "fields": {
+        "quartier": "Meudon-la-Forêt",
+        "point_geo": [
+          48.7840726,
+          2.2317239
+        ],
+        "horaires_d_ouverture": "Du lundi au samedi de 9h30 à 12h30 et de 14h30 à 19h30",
+        "latitude": "48.7840726",
+        "contact": "01 46 30 86 30",
+        "image": "https://www.meudon.fr/wp-content/uploads/sites/5/2021/04/Pharmacie-de-la-Clinique-MLF.jpg",
+        "adresse": "7 rue de la Synagogue",
+        "pharmacie": "Pharmacie de la Clinique",
+        "longitude": "2.2317239"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2317239,
+          48.7840726
+        ]
+      },
+      "record_timestamp": "2021-04-26T12:06:32.173+02:00"
+    },
+    {
+      "datasetid": "liste-des-pharmacies",
+      "id": "af962c8f11d82ccca029628d5343ed20c7cc09df",
+      "fields": {
+        "quartier": "Meudon-la-Forêt",
+        "web": "https://www.pharmaciecentralemeudonlaforet.com/",
+        "point_geo": [
+          48.7884516,
+          2.2303822
+        ],
+        "horaires_d_ouverture": "Du lundi au samedi de 9h à 13h et de 14h à 18h",
+        "latitude": "48.7884516",
+        "contact": "01 46 31 61 53",
+        "image": "https://www.meudon.fr/wp-content/uploads/sites/5/2021/04/Pharmacie_Centrale.jpg",
+        "adresse": "7ter avenue du Général de Gaulle",
+        "pharmacie": "Pharmacie centrale",
+        "longitude": "2.2303822"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2303822,
+          48.7884516
+        ]
+      },
+      "record_timestamp": "2021-04-26T12:06:32.173+02:00"
+    },
+    {
+      "id": "0",
+      "fields": {
+        "pharmacie": "aa",
+        "quartier": "bb",
+        "latitude": "42",
+        "longitude": "22"
+      }
+    }
+  ]
+}
